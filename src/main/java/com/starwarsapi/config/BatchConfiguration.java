@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by sjmg on 21/07/17.
+ * Created by  on 21/07/17.
  */
 
 public class BatchConfiguration {

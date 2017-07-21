@@ -5,7 +5,7 @@ import lombok.Data;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- * Created by sjmg on 21/07/17.
+ * Created by  on 21/07/17.
  */
 @Data
 @XmlRootElement(name = "people")

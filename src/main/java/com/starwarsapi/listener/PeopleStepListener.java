@@ -6,7 +6,7 @@ import org.springframework.batch.core.annotation.AfterStep;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by sjmg on 21/07/17.
+ * Created by  on 21/07/17.
  */
 @Component
 @Slf4j

@@ -1,3 +1,7 @@
 logging:
   file: cosas.txt
+spring:
+  batch:
+    job:
+      enabled: false
 
